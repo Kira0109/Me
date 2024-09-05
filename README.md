@@ -1,18 +1,18 @@
 # # Hi there! 👋
 
-I'm [Your Name], a passionate Full-Stack Developer and Cybersecurity Enthusiast from [Your Location].
+I'm Khalil, a passionate Full-Stack Developer and Cybersecurity Enthusiast from Tunisia.
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning: [Your Current Focus]
-- 👨‍💻 I’m working on: [Current Projects]
-- 💬 Ask me about: [Skills/Technologies]
-- 📫 How to reach me: [Your Email/Contact]
-- ⚡ Fun fact: [Something interesting about you]
+- 🌱 I’m currently learning: .NET Core & Spring boot
+- 👨‍💻 I’m working on: Management System Applications
+- 💬 Ask me about: Coding/Sports
+- 📫 How to reach me: Khalilcheguenni@gmail.com
+- ⚡ Fun fact: Nothing
 
 ### 🛠️ Languages and Tools:
 - **Frontend**: React, Angular, HTML5, CSS3
 - **Backend**: Spring Boot, Node.js, .NET Core
-- **Databases**: SQL Server, MongoDB, Firebase
+- **Databases**: SQL Server, MongoDB, GraphQl
 - **Version Control**: Git, GitHub
 - **Others**: Postman, Swagger, Docker, Firebase
 
@@ -20,8 +20,7 @@ I'm [Your Name], a passionate Full-Stack Developer and Cybersecurity Enthusiast 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](www.linkedin.com/in/khalil-cheguenni-80a71b179)
 
 ### 📊 Weekly Development Breakdown:
 ```text
